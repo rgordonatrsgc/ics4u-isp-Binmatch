@@ -71,7 +71,7 @@ I think it will be tough getting to use spritekit but as well jumping into somet
 *In the section below, sketch out a plan for your application. This is where you will spend the majority of your time in completing the ISP proposal. Think through what you hope to create and as needed, adjust your responses to the questions above.*
 
 Title Screen: 
-
+![Title](https://github.com/rsgc-elder-a/ics4u-isp-Binmatch/blob/master/Binmatch/Title%20Screen.jpg?raw=true)
 
 This screen is very simple. It consists of the title, play button and highscore. The play button simply starts the game and sends you to the game screen
 
