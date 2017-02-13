@@ -70,11 +70,13 @@ I think it will be tough getting to use spritekit but as well jumping into somet
 
 *In the section below, sketch out a plan for your application. This is where you will spend the majority of your time in completing the ISP proposal. Think through what you hope to create and as needed, adjust your responses to the questions above.*
 
+Title Screen: 
 
-    Title Screen: 
+
 This screen is very simple. It consists of the title, play button and highscore. The play button simply starts the game and sends you to the game screen
 
-    Game Screen:
+Game Screen:
+![Game](https://github.com/rsgc-elder-a/ics4u-isp-Binmatch/blob/master/Binmatch/Game%20Screen.jpg?raw=true)
 Here is the game loop.
 Grid: 
 This is where the gameplay happens. The player tries to produce one of the three numbers in the Number Field by choosing bits in a row or column and scores points depending on how large the number is. The numbers are read from right to left; right being the least significant bit. When choseing numbers in columns its read down-up being the farthest down bit is the least significant bit. 
